@@ -1,0 +1,66 @@
+{ 
+   margin: 0;
+   padding: 0;
+}
+
+#wrap{
+	margin: 0auto;
+	text-align: center;
+}
+
+a{
+text-decoration: none;
+
+}
+li{
+	display: inline-block;
+	padding-left: 25px;
+}
+ul{ 
+
+  float:right;
+  color:white;
+  
+}
+
+a:hover{
+text-decoration:underline;
+color:black;
+}
+#nheader{
+	background:url('dz/yaya.jpg')bottom right purple;
+	padding:25px;
+	height:150px;
+}
+h2{
+	color:red;
+}
+h1{
+	color:blue;
+}
+img{
+ border:dashed 2px orange;
+}
+#npara {
+background:url('dz/ok.jpg')fixed bottom left blue;
+height: 400px;
+padding:20px;
+}
+
+.text_para{
+	color:white;
+	font-size:50px;
+	font-family:verdana;
+}
+.redColor{
+color:red;
+}
+
+#footer{
+	background-color: purple;
+	padding: 30px;
+}	
+
+.redColor{
+	color:red
+}
